@@ -14,7 +14,5 @@
 - Perceptron Learning Rule কীভাবে Gradient Descent এর একটি রূপ?
 - Perceptron Loss Function এর সীমাবদ্ধতা কী?
 
-## মূল শিক্ষা:
-Gradient Descent এর practical implementation এবং Perceptron algorithm এর mathematical foundation সম্পর্কে clear ধারণা।
 
 ---
