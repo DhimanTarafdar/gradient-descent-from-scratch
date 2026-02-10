@@ -14,6 +14,4 @@
 - Perceptron Learning Rule কীভাবে Gradient Descent এর একটি রূপ?
 - Perceptron Loss Function এর সীমাবদ্ধতা কী?
 
-
 ---
-
